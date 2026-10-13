@@ -66,11 +66,11 @@
 
   ## 📊 Статистика
 <!-- Карточка с активностью -->
-<!--![E5capada GitHub stats](https://github-readme-stats.vercel.app/api?username=E5capada&show_icons=true&theme=radical)-->
+<!--![E5capada GitHub stats](https://github-readme-stats.vercel.app/api?username=Endiamo&show_icons=true&theme=radical)-->
 ![GitHub Streak](https://streak-stats.demolab.com?user=Endiamo&theme=radical)
 
 <!-- Карточка с языками программирования -->
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical)-->
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Endiamo&layout=compact&theme=radical)-->
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Endiamo&layout=compact&theme=radical)
 
 ✨ Спасибо за посещение профиля ✨
