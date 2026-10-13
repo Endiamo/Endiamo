@@ -8,6 +8,8 @@
 ## Обо мне
 - 21 год
 - Из Тюмени
+- Любимая команда
+  > ```git checkout```
 ---
 
 
@@ -70,6 +72,8 @@
 <!-- Карточка с языками программирования -->
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=E5capada&layout=compact&theme=radical)-->
 ![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Endiamo&layout=compact&theme=radical)
+
+✨ Спасибо за посещение профиля ✨
 
 <!--
 **Endiamo/Endiamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
